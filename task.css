@@ -78,7 +78,7 @@ footer
 	word-wrap: break-word;
 }
 
-#sideMenu > p:active 
+#sideMenu > p:hover 
 {
   background-color: green;
 }
